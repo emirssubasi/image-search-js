@@ -18,4 +18,9 @@ Bu proje, **Unsplash API**'sini kullanarak kullanıcıların görsel araması ya
 - **CSS**: Modern CSS teknikleri ile tasarım ve düzen (Flexbox ve Grid kullanımı).
 - **JavaScript**: Unsplash API'sinden veri alıp, sayfayı dinamik olarak görsellerle doldurmak.
 
+## Gereksinimler
+
+- **Unsplash API anahtarı** gereklidir. Bu anahtar, API'ye istek gönderebilmek için kullanılır.
+-https://unsplash.com/join adresinden accesskey alin ve kendi config.js dosyaniza entegre edin.
+
 
